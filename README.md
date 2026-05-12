@@ -1,4 +1,4 @@
-# 🌐 Arya Pathrikar — Portfolio
+# 🌐 Yagnesh Mangroliya — Portfolio
 
 A modern, responsive, and animated personal portfolio showcasing my work across **AI/ML, Full-Stack Engineering, Cloud, and Research**. Designed to highlight my best projects, experience, publications, and skills in a clean, professional interface optimized for recruiters and engineers.
 
