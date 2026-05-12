@@ -39,7 +39,7 @@ export default function HeroSection({ roles, visibleElements }: HeroSectionProps
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
           <a
-            href="#"
+            href="https://drive.google.com/file/d/1VoEwjwyhAJ_y-QJa-9_BvqnjGMFjGjVS/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 bg-pink-600 text-white rounded-lg font-semibold hover:bg-pink-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
