@@ -8,7 +8,7 @@ export default function Footer() {
           {/* Social Icons */}
           <div className="flex items-center gap-5">
             <a
-              href="https://github.com/yeggi"
+              href="https://github.com/yagnesh44"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center transition-all duration-300"
@@ -22,7 +22,7 @@ export default function Footer() {
               <span className="text-xs font-medium text-gray-400 group-hover:text-pink-400 transition-colors">GitHub</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/yagneshmangroliya/"
+              href="https://www.linkedin.com/in/yagnesh-mangroliya/"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex flex-col items-center transition-all duration-300"
