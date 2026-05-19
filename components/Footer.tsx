@@ -52,7 +52,7 @@ export default function Footer() {
           {/* Source Code and Copyright */}
           <div className="flex flex-col items-center gap-4">
             <a
-              href="https://github.com/yeggi"
+              href="https://github.com/yagnesh44"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-gray-500 hover:text-pink-400 transition-colors duration-300 flex items-center gap-2"

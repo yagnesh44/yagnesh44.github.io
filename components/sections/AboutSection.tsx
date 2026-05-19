@@ -26,10 +26,11 @@ export default function AboutSection({ visibleElements }: AboutSectionProps) {
                 <span className="text-pink-400">Me</span>
               </h2>
               <p className="text-gray-400 leading-relaxed mb-8 text-lg md:text-lg max-w-2xl">
-              Hey there! I&apos;m a Software Engineer pursuing my MS in Computer Science at the University of Houston (GPA: 3.8/4.0).
-              I have hands-on experience building RESTful microservices with Spring Boot, optimizing SQL-heavy backends, and deploying cloud-native solutions using AWS, Docker, and Kubernetes.
-              I&apos;ve shipped production code that cut data retrieval times by 25%, saved 20% on infra costs, and boosted user adoption by 33%.
-              I&apos;m passionate about building scalable, reliable systems and I&apos;m currently seeking full-time opportunities in Software Engineering, Cloud, or Full Stack Development.
+              Hey there! I&apos;m a Full-Stack Software Engineer pursuing my M.S. in Computer Science at the University of Houston (GPA: 3.8/4.0).
+              I have 2+ years of professional experience shipping end-to-end features across TypeScript, Next.js, Node.js/Express, and PostgreSQL.
+              I thrive in startup environments and am comfortable owning problems from first principles to production deployment.
+              I&apos;ve built real-time systems (live chat, scheduling, SMS), reduced infrastructure costs by 20%, and accelerated release cycles by 66%.
+              I am deeply curious about AI/ML, creator platforms, and building products that reach millions.
               </p>
               <div className="flex items-center text-gray-400 text-lg">
                 <svg className="w-6 h-6 text-pink-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
