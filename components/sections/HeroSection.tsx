@@ -37,17 +37,6 @@ export default function HeroSection({ roles, visibleElements }: HeroSectionProps
           Seeking opportunities to build scalable backends, clean architectures, and AI-driven applications.
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-          <a
-            href="https://drive.google.com/file/d/1VoEwjwyhAJ_y-QJa-9_BvqnjGMFjGjVS/view?usp=sharing"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-8 py-3 bg-pink-600 text-white rounded-lg font-semibold hover:bg-pink-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
-          >
-            Resume
-          </a>
-        </div>
-
         {/* Social Icons at Bottom */}
         <div className="flex justify-center gap-4 mt-16">
           <a
