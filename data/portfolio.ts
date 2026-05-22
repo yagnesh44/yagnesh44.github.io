@@ -7,10 +7,11 @@ export const experiences = [
     description:
       'Designed and optimized RESTful APIs integrated with PostgreSQL and MySQL, reducing latency and containerizing services on AWS.',
     achievements: [
-      'Designed and optimized RESTful APIs integrated with PostgreSQL and MySQL, writing complex SQL queries that reduced data retrieval latency by 25% — directly improving user-facing product performance',
-      'Drove a 20% annual reduction in infrastructure costs by containerizing services with Docker and Kubernetes and migrating workloads to AWS — scaling the platform to handle growing user load without downtime',
-      'Increased system maintainability by refactoring 15% of unused components, enforced coding standards through regular code reviews, and shipped clean, well-documented code in a fast-moving Agile environment',
-      'Collaborated directly with engineers and stakeholders to deliver product demos and onboarding docs, accelerating team adoption of new services and improving cross-functional knowledge sharing'
+      'Architected distributed RESTful microservices using Java, Spring Boot, and Node.js integrated with PostgreSQL and MySQL — designed complex SQL queries, indexing strategies, and partitioning schemes that reduced data retrieval latency by 25% across high-volume backend services.',
+      'Designed and implemented real-time ETL/ELT data pipelines using Kafka-based event streaming and message queues — ingesting, transforming, and routing high-volume data across distributed services with guaranteed delivery, fault tolerance, and sub-second processing latency.',
+      'Reduced infrastructure costs 20% annually by architecting containerized deployments on Docker/Kubernetes/AWS — implemented auto-scaling, load balancing, and health-check policies for zero-downtime releases under peak loads.',
+      'Implemented observability practices including Prometheus-based alerting, structured logging, and uptime monitoring — improving incident response time and platform SLA compliance across distributed services.',
+      'Introduced automated CI/CD pipelines via Jenkins, reducing manual deployment effort by 40% and increasing release frequency while enforcing code quality through reviews and refactoring legacy modules.'
     ],
     technologies: ['PostgreSQL', 'MySQL', 'Docker', 'Kubernetes', 'AWS', 'REST APIs', 'Agile']
   },
@@ -22,9 +23,9 @@ export const experiences = [
     description:
       'Engineered RESTful API endpoints using Node.js/Express and built reusable ReactJS UI components.',
     achievements: [
-      'Engineered RESTful API endpoints using Node.js and Express integrated with MySQL, improving data retrieval efficiency by optimizing query structure and reducing average response time by 20%',
-      'Built reusable ReactJS UI components following component-based architecture, cutting front-end development time by 25% across multiple features and ensuring consistent design patterns',
-      'Identified and resolved 10+ production bugs during code reviews, improving system stability and contributing to a cleaner, more maintainable codebase ahead of a major release cycle'
+      'Developed Java and Node.js RESTful API services integrated with MySQL — optimized query structures and indexing strategies that reduced average backend response time by 20% across core data endpoints.',
+      'Built reusable ReactJS UI components following component-based architecture, cutting front-end development time by 25% across multiple features and ensuring consistent design patterns.',
+      'Resolved 10+ production issues through structured code reviews and log analysis, improving system stability and gaining hands-on experience with microservice communication patterns and backend performance profiling.'
     ],
     technologies: ['Node.js', 'Express.js', 'MySQL', 'ReactJS', 'REST APIs']
   },
